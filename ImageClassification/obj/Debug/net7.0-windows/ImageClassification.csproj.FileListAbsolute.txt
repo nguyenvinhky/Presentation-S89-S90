@@ -1,0 +1,17 @@
+D:\Titan\Presentation\ImageClassification\bin\Debug\net7.0-windows\ImageClassification.exe
+D:\Titan\Presentation\ImageClassification\bin\Debug\net7.0-windows\ImageClassification.deps.json
+D:\Titan\Presentation\ImageClassification\bin\Debug\net7.0-windows\ImageClassification.runtimeconfig.json
+D:\Titan\Presentation\ImageClassification\bin\Debug\net7.0-windows\ImageClassification.dll
+D:\Titan\Presentation\ImageClassification\bin\Debug\net7.0-windows\ImageClassification.pdb
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.csproj.AssemblyReference.cache
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.Form1.resources
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.csproj.GenerateResource.cache
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.AssemblyInfoInputs.cache
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.AssemblyInfo.cs
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.csproj.CoreCompileInputs.cache
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.dll
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\refint\ImageClassification.dll
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.pdb
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ImageClassification.genruntimeconfig.cache
+D:\Titan\Presentation\ImageClassification\obj\Debug\net7.0-windows\ref\ImageClassification.dll
